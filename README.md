@@ -4,8 +4,12 @@ The PS0 framework, ontology, and relevant documentation will be publicly availab
 
 ## PS0 Framework
 
-![alt text](https://github.com/scripteam/InDArch/blob/master/PS0_framework.png)
+![alt text](https://github.com/securitylab-ch/ps0/blob/master/PS0_framework.png)
 
 ## PS0 Ontology
 
-![alt text](https://github.com/scripteam/InDArch/blob/master/PS0_ontology.png)
+![alt text](https://github.com/securitylab-ch/ps0/blob/master/PS0_ontology.png)
+
+## PS0 Documentation (User Guide)
+
+![alt text](https://github.com/securitylab-ch/ps0/blob/master/PS0_documentation.png)
