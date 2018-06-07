@@ -1,6 +1,6 @@
 # PS0: Ontological Framework For Physical Security and Insider Threat Detection
 
-The PS0 framework and ontology will be publicly available when we publish the paper.
+The PS0 framework, ontology, and relevant documentation will be publicly available when we publish the paper.
 
 ## PS0 Framework
 
